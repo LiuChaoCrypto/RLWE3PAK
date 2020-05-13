@@ -5,7 +5,7 @@ This software was initially distributed by the authors from <https://github.com/
 
 We implemented our three party key exchange protocol 3PAKE on the basis of their software.
 
-
+For the 3PAKE scheme, see https://eprint.iacr.org/2019/1386.
 
 
 Instructions
